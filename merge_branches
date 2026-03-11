@@ -1,0 +1,14 @@
+Script started on 2026-03-11 06:59:17+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;al@al: ~/Work_WSL/inbox/mcino-Introduction-to-Git-and-GitHub[01;32mal@al[00m:[01;34m~/Work_WSL/inbox/mcino-Introduction-to-Git-and-GitHub[00m$ git checkout main
+[?2004lSwitched to branch 'main'
+Your branch is up to date with 'origin/main'.
+[?2004h]0;al@al: ~/Work_WSL/inbox/mcino-Introduction-to-Git-and-GitHub[01;32mal@al[00m:[01;34m~/Work_WSL/inbox/mcino-Introduction-to-Git-and-GitHub[00m$ git merge bug-fix-typo
+[?2004lUpdating ad95b0a..7505d46
+Fast-forward
+ forked-repo | 336 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 1 file changed, 336 insertions(+)
+ create mode 100644 forked-repo
+[?2004h]0;al@al: ~/Work_WSL/inbox/mcino-Introduction-to-Git-and-GitHub[01;32mal@al[00m:[01;34m~/Work_WSL/inbox/mcino-Introduction-to-Git-and-GitHub[00m$ exit
+[?2004lexit
+
+Script done on 2026-03-11 06:59:34+00:00 [COMMAND_EXIT_CODE="0"]
